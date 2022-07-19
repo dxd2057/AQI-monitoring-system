@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aqimonitoringsystem",
+  "private_key_id": "2391a016e3b4cba3d229171e1e5b2e5ad36c3b8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNPpqp9I4uVYCv\nbIz2mEzrSPD4hkPZW8Yk6kzt3+reWW6UFGb/MnyHrpzQNk44o97C64gl5R6tPH3o\nZHOoRdAYOl7QoAuYoEAN7mM/QxxUPMcs/iDvn4qNjBmLobvB9D261NvYuuM8xwzK\ngZ7QD5i8CXcHBnAqsx/G1gkagyORQGOgFOQIa/KFP8taIr7kCGEgaiFtCw/IVF0u\nt+mCqaLzP/oQKm9ALsP9DginISIgHBa9AklCSs4F9KFd0XfaK9PaolgXNRQd2uzS\n3cX2sXqKURmYNWFwoJmcFtHWiDbhzBUum65TMJrq1RVuy2UCuYLTJifEgaLPnrjO\nD517PSo1AgMBAAECggEAI9VUR2vtDuXaq8X17m+0rjdz6s/2NJKzS2qkt7sqVFuk\n1LGjMdbsqvuvYSK6EWV61OkuQf94laJEETjIgI5/wFsghqgKnkEMLeJ67WaYIZTi\n6VYNBgkCtafKJfi8wSYVSPM01uf6GHhgIVL0GTs/3USBxXY4Sxwu5hYkTL6sjQUy\nbmobPQNWUiDuUfBDDHtIbhjYjLC8alFcqFMThMJTecfo/oYwNTPO6DKYvLPRQ7AX\nkEmRVrQI+30prq5HJP+GvYIQFe6cXq9iI3bVLt9ZVAkbu8cGQuE2fx2dTGtsLS3L\nFaL3zv7KG1Wg/zqdrEJBAg+UQ3KsjcbtL1c6fWJfgQKBgQD9X7ZVs6ierl9nUyQG\nfPIzqr/oor/EF04G925qfNLoLt3sfLm4PbV+xolxnKIr8pSVxNV73J6rXys7VUpt\nf93XkRbvtwrENtrLkM6hqk2ZNM2RH7QM75RO1Sd61WYvyaajZuS50hmO1IXxjIbH\nHvQC4Nrx73P7E1y4HpYXysr5cQKBgQDPXzA0lmUDzFU3WZXxzAeGV4V4QJ9OfKzd\nZ6o+XdDRUUL7IVpHsRPqPccysC7ow8LEIHeVaX1tE75R2xCkhhjrwJl3reu0Jv6t\n+D+5FxWF4lL8v9xBiIhYjUw56veBG2nbfH46T6F4mMxs7+y2b7447N3ANol4pqgM\nzldWx717BQKBgQC9OS3C81mKqE83qy/MaKO5UlvgMStmFsF/EmqzvGUGYXn7k2pf\n3jYdZ8hdwMycZZ3x+/4zcqBM+9YdiaT8AfJ7ey/V9q1jvFPKk2q98aHiOT0MlNCy\nmHn6JdZGNfkK115LyhwnanEL6kveCUTekI9LVwIsjNfhOqSUHMObIShVAQKBgQCk\nVRufYNtWIjQZs82mmvgPlwX3IMbd7OEUZ5U67R+Q8OOynWCs1YAhralQ2tuhq5iJ\n0ezSI5G4wd+dgIt0xau0D6HOfK3/yrMibEsbQ1bUDWGUV/qUmDzsZ7TTZQeUcYP2\n4nYpgXdFWVkOrycX//9vnw2vx8gzK2abF12RMKJQfQKBgAajnIrvL3BzSB8SfxUp\nWYU1Y36SjEt8+bed1hj6FRPoMIEqwlfvzMaswafteR/wkdBrr5qFdj3SwWXbG8Ot\nPxbWQLQTj3FbJDiocq4ax1VyfwP8a03phfoaKqYZ1h9faCbW8cnKk33Sh1xPnoKx\nWzk4SrbPqQ3fibbFOVnLkOjM\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-x6frr@aqimonitoringsystem.iam.gserviceaccount.com",
+  "client_id": "118161882913007260404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-x6frr%40aqimonitoringsystem.iam.gserviceaccount.com"
+}
